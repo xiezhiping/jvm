@@ -1,5 +1,5 @@
 # jvm
-## walk into Java JVM
+## Walk into Java JVM
 This repository contains:
 - interesting examples
 - some wheels
