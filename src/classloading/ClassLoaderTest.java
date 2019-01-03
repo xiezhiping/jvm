@@ -28,7 +28,7 @@ public class ClassLoaderTest {
 				}
 			}
 		};
-		Object obj = myLoader.loadClass("classloading.ClassLoaderTest").newInstance();
+		java.lang.Object obj = myLoader.loadClass("classloading.ClassLoaderTest").newInstance();
 		System.out.println(obj.getClass());
 		System.out.println(obj instanceof classloading.ClassLoaderTest);
 
