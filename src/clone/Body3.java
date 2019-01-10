@@ -1,4 +1,9 @@
 package clone;
+/**
+ * 重写clone方法，变成深拷贝之后，将复制子对象
+ * @author XZP
+ *
+ */
 class Student1 implements Cloneable{
     String grade;
     public Student1(){

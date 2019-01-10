@@ -1,5 +1,9 @@
 package clone;
-
+/**
+ * 不含子对象的情况下，浅复制不会clone子对象
+ * @author XZP
+ *
+ */
 class Student{
     String grade;
     public Student(){

@@ -1,4 +1,9 @@
 package clone;
+/**
+ * 对象自身的复制
+ * @author XZP
+ *
+ */
 class  Person1 implements Cloneable{ // 实现Cloneable接口
     int age;
     String name;
