@@ -1,4 +1,4 @@
-package opti;
+package optimize;
 
 public class BaseTest {
 	public static void main(String[] args) {
